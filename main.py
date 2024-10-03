@@ -2,7 +2,7 @@
 Name: Phann Boon
 Date: 10/3/24
 Description: This is a text adventure game called Lost in Space about someone who crash lands on a planet
-and tries to find their way around the panet
+and tries to find their way around the planet
 '''
 
 print("Possible Themes".center(40,'-'))
